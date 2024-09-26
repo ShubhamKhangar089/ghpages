@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ShubhamKhangar089.github.io/ghpages",
+  "homepage": "https://ShubhamKhangar089.github.io/ghpages",
   "scripts": {
     "deploy": "gh-pages -d dist" ,
     "start" : "npm run dev",
