@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://github.com/ShubhamKhangar089.github.io/ghpages",
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist" ,
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
